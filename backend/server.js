@@ -33,7 +33,7 @@ const saveImageFromBase64 = (base64Data) => {
 const db = mysql.createConnection({
   host: 'fdb1032.awardspace.net',
   user: '4716707_beerynursery',
-  password: 'YOUR_DB_PASSWORD',   // ← change this
+  password: 'Dudususu2003@',   
   database: '4716707_beerynursery'
 });
 
